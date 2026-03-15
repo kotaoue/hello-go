@@ -1,0 +1,4 @@
+github.com/kotaoue/the-go-programming-language v0.0.0-20200705141907-4693cae2ac30 h1:IQgaoj0cgRYO2Q4PVZQJ7V+9fU6Lgg6wwF/boSJvE3A=
+github.com/kotaoue/the-go-programming-language/ch2 v0.0.0-20200706133542-0c0731714a01 h1:CpBPm+DbiDgwsB5mo4VhErW27S1A6afQXGItoo9kQDI=
+github.com/kotaoue/the-go-programming-language/ch2/popcount v0.0.0-20200706133542-0c0731714a01 h1:zyAhXjUqr/Ud/MoKQLvfSIu3HYLlE92aGE2NzzdcZ7A=
+github.com/kotaoue/the-go-programming-language/ch2/popcount v0.0.0-20200706133542-0c0731714a01/go.mod h1:WzdTwfvudI6rZKtHGMXyJHR+HkHU02uF4y6V7T08o5A=
